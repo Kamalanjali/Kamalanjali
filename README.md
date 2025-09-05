@@ -17,17 +17,17 @@ Tools & Platforms: Git, VS Code, Eclipse
 <p align="left">
   <!-- HackerRank -->
   <a href="https://www.hackerrank.com/certificates/7bb4c60763ce" target="_blank">
-    <img src="certifications/sql_basic certificate_page-0001.jpg" width="300"/>
+    <img src="certifications/sql_basic certificate_page-0001.jpg" width="150"/>
   </a>
   
   <!-- Udemy -->
   <a href="ude.my/UC-d46a749f-5e81-4e3b-aa59-7755b7582545" target="_blank">
-    <img src="certifications/UC-d46a749f-5e81-4e3b-aa59-7755b7582545_page-0001.jpg" width="300"/>
+    <img src="certifications/UC-d46a749f-5e81-4e3b-aa59-7755b7582545_page-0001.jpg" width="150"/>
   </a>
   
   <!-- Coursera -->
   <a href="https://www.coursera.org/account/accomplishments/specialization/HC2EN3T7C44L" target="_blank">
-    <img src="certifications/Coursera HC2EN3T7C44L_page-0001.jpg" width="300" />
+    <img src="certifications/Coursera HC2EN3T7C44L_page-0001.jpg" width="150" />
   </a>
 </p>
 
