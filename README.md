@@ -12,44 +12,22 @@ Databases: MySQL, Oracle
 
 Tools & Platforms: Git, VS Code, Eclipse
 
-## 🏆 HackerRank Badges
-
-<p align="left">
-  <a href="https://www.hackerrank.com/profile/kamalanjalimett1" target="_blank">
-    <img src="https://img.shields.io/badge/Problem%20Solving-5%20stars-brightgreen?style=for-the-badge&logo=hackerrank" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/kamalanjalimett1" target="_blank">
-    <img src="https://img.shields.io/badge/Java-5%20stars-brightgreen?style=for-the-badge&logo=java" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/kamalanjalimett1" target="_blank">
-    <img src="https://img.shields.io/badge/Python-4%20stars-brightgreen?style=for-the-badge&logo=python" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/kamalanjalimett1" target="_blank">
-    <img src="https://img.shields.io/badge/SQL-5%20stars-brightgreen?style=for-the-badge&logo=databricks" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/kamalanjalimett1" target="_blank">
-    <img src="https://img.shields.io/badge/Data%20Structures-3%20stars-brightgreen?style=for-the-badge&logo=hackerrank" />
-  </a>
-</p>
-
----
-
 ## 🎓 Certifications
 
 <p align="left">
   <!-- HackerRank -->
   <a href="https://www.hackerrank.com/certificates/7bb4c60763ce" target="_blank">
-    <img src="certifications/sql_basic certificate_page-0001.jpg" />
+    <img src="certifications/sql_basic certificate_page-0001.jpg" width="300"/>
   </a>
   
   <!-- Udemy -->
   <a href="ude.my/UC-d46a749f-5e81-4e3b-aa59-7755b7582545" target="_blank">
-    <img src="certifications/UC-d46a749f-5e81-4e3b-aa59-7755b7582545_page-0001.jpg" />
+    <img src="certifications/UC-d46a749f-5e81-4e3b-aa59-7755b7582545_page-0001.jpg" width="300"/>
   </a>
   
   <!-- Coursera -->
   <a href="https://www.coursera.org/account/accomplishments/specialization/HC2EN3T7C44L" target="_blank">
-    <img src="certifications/Coursera HC2EN3T7C44L_page-0001.jpg" />
+    <img src="certifications/Coursera HC2EN3T7C44L_page-0001.jpg" width="300" />
   </a>
 </p>
 
