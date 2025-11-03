@@ -15,6 +15,19 @@ Tools & Platforms: Git, VS Code, Eclipse
 ## 🎓 Certifications
 
 <p align="left">
+
+ <!-- Microsoft Certified : Azure Fundamentals-->
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/MettaLakshmiKamalanjali-5202/7B7BB44AEAA0DC40?sharingId=398751272ACE944E" target="_blank">
+    <img src="certifications/Microsoft Certified- Azure Fundamentals Certificate.jpg" width="150" />
+  </a>
+</p>
+ 
+ <!-- IBM SkillsBuild AI Fundamentals-->
+  <a href="https://www.credly.com/badges/5a48dba1-5a30-4f4c-b82c-01ca18e1fb57/public_url" target="_blank">
+    <img src="certifications/IBM SkillsBuild-Artificial-Intelligence-Fundamentals.jpg" width="150" />
+  </a>
+</p>
+  
   <!-- HackerRank -->
   <a href="https://www.hackerrank.com/certificates/7bb4c60763ce" target="_blank">
     <img src="certifications/sql_basic certificate_page-0001.jpg" width="150"/>
